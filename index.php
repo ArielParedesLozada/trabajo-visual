@@ -4,7 +4,6 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Trabajo de Computación Visual</title>
-    <link rel="stylesheet" href="styles.css">
 </head>
 <body>
     <h1>Trabajo de Computación Visual</h1>
