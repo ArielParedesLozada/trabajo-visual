@@ -11,7 +11,6 @@
 
     <h2>Enlaces a las páginas</h2>
     <ul>
-        <li><a href="Diego.php">Diego</a></li>
         <li><a href="Elkin.php">Elkin</a></li>
         <li><a href="Leonel.php">Leonel</a></li>
         <li><a href="Paredes.php">Paredes</a></li>
