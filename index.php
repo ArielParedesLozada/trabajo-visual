@@ -15,8 +15,8 @@
         <li><a href="Elkin.php">Elkin</a></li>
         <li><a href="Leonel.php">Leonel</a></li>
         <li><a href="Paredes.php">Paredes</a></li>
-        <li><a href="Sebastian.php">Paredes</a></li>
-        <li><a href="Pablo.php">Paredes</a></li>
+        <li><a href="sebas.php">Sebastian</a></li>
+        <li><a href="pablo.php">Pablo</a></li>
     </ul>
 </body>
 </html>
